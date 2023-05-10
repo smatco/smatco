@@ -8,7 +8,7 @@ If you need anything just contact me on Discord: smat#1995 or on Telegram: @smat
 
 - 🤝 I’m looking for help with **nothing atm**
 
-- 👨‍💻 All of my projects are available [@smatco](https://github.com/smattco)
+- 👨‍💻 All of my projects are available [@smatco](https://github.com/smatco)
 
 
 

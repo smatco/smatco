@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Smatco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Smatco</h1>
 
 I’m interested in general IT stuff, I'm not that specialised in any specific chores, I'm currently learning at secondary school in Italy.
 I'm currently trying to get better in Minecraft Plugin developing.

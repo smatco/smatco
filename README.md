@@ -73,7 +73,6 @@ If you need anything just contact me on Discord: smat#1995 or on Telegram: @smat
 </div>
 
 ----
-~~strikethrough text~~
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 

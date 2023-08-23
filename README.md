@@ -2,16 +2,7 @@
 
 I’m interested in general IT stuff, I'm not that specialised in any specific chores, I'm currently learning at secondary school in Italy.
 I'm currently trying to get better in Minecraft Plugin developing.
-If you need anything just contact me on Discord: 𝑠𝑚𝑎𝑡#0160 or on Telegram: @smatco
-
-- 🌱 I’m currently  **Studying for my state exam** 
-
-- 🤝 I’m looking for help with **nothing atm**
-
-- 👨‍💻 All of my projects are available [@smatco](https://github.com/smatco)
-
-
-
+If you need anything just contact me on Discord: 𝑠𝑚𝑎𝑡#0160 or on Telegram: @smatco 
 
 ---
 
